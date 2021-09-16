@@ -3,6 +3,6 @@
 ## Проекты
 | Название проекта              | Стек           | Описание                     | 
 | :-------------------- | :---------------------: |:---------------------------:| 
-| Определеение стоимости автомобилей | NumPy, Pandas, Matplotlib, Seaborn, sklearn, lightgbm |  Построение модели для определения стоимости. | 
-| Анализ рынка видеоигр| NumPy, Pandas, Matplotlib, Seaborn, sklearn, модуль stats библиотеки scipy |  Выявление закономерности, определяющие успешность игры. | 
-| Предсказание температуры выплавки стали | NumPy, Pandas, Matplotlib, Seaborn, sklearn | Построение модели, которая предскажет оптимальную температуру выплавки стали. | 
+| [Определеение стоимости автомобилей](https://github.com/vovakuk/YPprojects/tree/main/Avto) | NumPy, Pandas, Matplotlib, Seaborn, sklearn, lightgbm |  Построение модели для определения стоимости. | 
+| [Анализ рынка видеоигр](https://github.com/vovakuk/YPprojects/tree/main/Games_market)| NumPy, Pandas, Matplotlib, Seaborn, sklearn, модуль stats библиотеки scipy |  Выявление закономерности, определяющие успешность игры. | 
+| [Предсказание температуры выплавки стали](https://github.com/vovakuk/YPprojects/tree/main/metal_prod) | NumPy, Pandas, Matplotlib, Seaborn, sklearn | Построение модели, которая предскажет оптимальную температуру выплавки стали. | 
