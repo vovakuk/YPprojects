@@ -17,3 +17,6 @@ LogisticRegression
 DecisionTreeClassifier
 
 RandomForestClassifier
+
+## Итог
+Проведен анализ данных, среди данных выделены признаки и ключевой признак, опробовано несколько моделей, выбрана наиболее оптимальная.
